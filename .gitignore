@@ -1,0 +1,10 @@
+# Git Mastery by DevOps Shack — generated lab artifacts
+labs/*/playground/
+labs/*/playground-*/
+labs/*/shared-lib.git/
+labs/*/server.git/
+labs/*/_seed/
+labs/*/bump-upstream.sh
+labs/*/lab_signing_key*
+labs/*/allowed_signers
+.DS_Store
